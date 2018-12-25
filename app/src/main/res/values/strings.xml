@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">List View</string>
+
+    <string-array name="items">
+        <item>oranges</item>
+        <item>bread</item>
+        <item>eggs</item>
+    </string-array>
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$2.99</item>
+        <item>$2.89</item>
+    </string-array>
+    <string-array name="colors">
+        <item>orange</item>
+        <item>yellow</item>
+        <item>white</item>
+    </string-array>
+</resources>
